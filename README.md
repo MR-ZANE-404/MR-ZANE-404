@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/MR-ZANE-404/MR-ZANE-404/blob/main/20240420_030726.png)](https://github.com)
+[![MasterHead](https://github.com/MR-ZANE-404/MR-ZANE-404/blob/main/20240420_031510.png)](https://github.com)
 <h1 align="center">⚡ HEY MR. ZANE HERE ⚡</h1>
 <h3 align="center">⚡ A NOOB CODER ⚡</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
